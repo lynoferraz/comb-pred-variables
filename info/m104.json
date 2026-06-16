@@ -1,0 +1,12 @@
+{
+    "alias": "m104",
+    "name": "Final \u2014 Match 104",
+    "description": "Final winner (Match 104): winner of Match 101 vs winner of Match 102. Left branch (winner of Match 101) possible teams: Mexico, South Africa, South Korea, Czech Republic, Canada, Bosnia and Herzegovina, Qatar, Switzerland, Brazil, Morocco, Haiti, Scotland, United States, Paraguay, Australia, Turkey, Germany, Cura\u00e7ao, Ivory Coast, Ecuador, Netherlands, Japan, Sweden, Tunisia, Belgium, Egypt, Iran, New Zealand, Spain, Cape Verde, Saudi Arabia, Uruguay, France, Senegal, Iraq, Norway, Argentina, Algeria, Austria, Jordan, Portugal, DR Congo, Uzbekistan, Colombia, England, Croatia, Ghana, Panama. Right branch (winner of Match 102) possible teams: Mexico, South Africa, South Korea, Czech Republic, Canada, Bosnia and Herzegovina, Qatar, Switzerland, Brazil, Morocco, Haiti, Scotland, United States, Paraguay, Australia, Turkey, Germany, Cura\u00e7ao, Ivory Coast, Ecuador, Netherlands, Japan, Sweden, Tunisia, Belgium, Egypt, Iran, New Zealand, Spain, Cape Verde, Saudi Arabia, Uruguay, France, Senegal, Iraq, Norway, Argentina, Algeria, Austria, Jordan, Portugal, DR Congo, Uzbekistan, Colombia, England, Croatia, Ghana, Panama.",
+    "category": "knockout",
+    "tags": ["world cup", "final", "match 104"],
+    "cluster": "Final",
+    "states": ["Winner of Match 101", "Winner of Match 102"],
+    "cliques": [],
+    "newCluster": true,
+    "members": []
+}
