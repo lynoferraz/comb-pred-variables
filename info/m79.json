@@ -1,0 +1,46 @@
+{
+    "alias": "m79",
+    "name": "Round of 32 — Match 79",
+    "description": "Resolved: Mexico won Match 79 (Round of 32).",
+    "category": "knockout",
+    "tags": [
+        "world cup",
+        "round of 32",
+        "match 79"
+    ],
+    "cluster": "Round of 32",
+    "states": [
+        "Mexico",
+        "South Africa",
+        "South Korea",
+        "Czech Republic",
+        "Brazil",
+        "Morocco",
+        "Haiti",
+        "Scotland",
+        "Germany",
+        "Curaçao",
+        "Ivory Coast",
+        "Ecuador",
+        "Netherlands",
+        "Japan",
+        "Sweden",
+        "Tunisia",
+        "Spain",
+        "Cape Verde",
+        "Saudi Arabia",
+        "Uruguay",
+        "France",
+        "Senegal",
+        "Iraq",
+        "Norway"
+    ],
+    "cliques": [
+        [
+            "m92",
+            "m80"
+        ]
+    ],
+    "newCluster": true,
+    "members": []
+}

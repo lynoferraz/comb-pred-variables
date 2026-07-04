@@ -1,0 +1,45 @@
+{
+    "alias": "m80",
+    "name": "Round of 32 — Match 80",
+    "description": "Resolved: England won Match 80 (Round of 32).",
+    "category": "knockout",
+    "tags": [
+        "world cup",
+        "round of 32",
+        "match 80"
+    ],
+    "cluster": "Round of 32",
+    "states": [
+        "Germany",
+        "Curaçao",
+        "Ivory Coast",
+        "Ecuador",
+        "Spain",
+        "Cape Verde",
+        "Saudi Arabia",
+        "Uruguay",
+        "France",
+        "Senegal",
+        "Iraq",
+        "Norway",
+        "Argentina",
+        "Algeria",
+        "Austria",
+        "Jordan",
+        "Portugal",
+        "DR Congo",
+        "Uzbekistan",
+        "Colombia",
+        "England",
+        "Croatia",
+        "Ghana",
+        "Panama"
+    ],
+    "cliques": [
+        [
+            "m92"
+        ]
+    ],
+    "newCluster": true,
+    "members": []
+}

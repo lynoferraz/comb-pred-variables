@@ -1,0 +1,26 @@
+{
+    "alias": "f1",
+    "name": "Group F — Winner",
+    "description": "Resolved: Netherlands finished top of Group F.",
+    "category": "group",
+    "tags": [
+        "world cup",
+        "group f",
+        "winner"
+    ],
+    "cluster": "Group F",
+    "states": [
+        "Netherlands",
+        "Japan",
+        "Sweden",
+        "Tunisia"
+    ],
+    "cliques": [
+        [
+            "m75",
+            "c2"
+        ]
+    ],
+    "newCluster": false,
+    "members": []
+}

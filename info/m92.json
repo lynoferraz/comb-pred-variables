@@ -1,31 +1,23 @@
 {
-    "alias": "m104",
-    "name": "Final — Match 104",
-    "description": "Final winner (Match 104): Winner of Match 101 vs Winner of Match 102. Winner of Match 101 — possible teams: Canada, Morocco, United States, Paraguay, Belgium, Spain, France, Portugal. Winner of Match 102 — possible teams: Mexico, Switzerland, Brazil, Paraguay, Turkey, Curaçao, Ecuador, Egypt, Cape Verde, Senegal, Iraq, Norway, Argentina, Algeria, Jordan, Colombia, England, Ghana, Panama.",
+    "alias": "m92",
+    "name": "Round of 16 — Match 92",
+    "description": "Round of 16 winner (Match 92): Winner of Match 79 vs Winner of Match 80. Winner of Match 79: Mexico (confirmed). Winner of Match 80: England (confirmed).",
     "category": "knockout",
     "tags": [
         "world cup",
-        "final",
-        "match 104"
+        "round of 16",
+        "match 92"
     ],
-    "cluster": "Final",
+    "cluster": "Round of 16",
     "states": [
         "Mexico",
         "South Africa",
         "South Korea",
         "Czech Republic",
-        "Canada",
-        "Bosnia and Herzegovina",
-        "Qatar",
-        "Switzerland",
         "Brazil",
         "Morocco",
         "Haiti",
         "Scotland",
-        "United States",
-        "Paraguay",
-        "Australia",
-        "Turkey",
         "Germany",
         "Curaçao",
         "Ivory Coast",
@@ -34,10 +26,6 @@
         "Japan",
         "Sweden",
         "Tunisia",
-        "Belgium",
-        "Egypt",
-        "Iran",
-        "New Zealand",
         "Spain",
         "Cape Verde",
         "Saudi Arabia",
@@ -59,7 +47,11 @@
         "Ghana",
         "Panama"
     ],
-    "cliques": [],
+    "cliques": [
+        [
+            "m99"
+        ]
+    ],
     "newCluster": true,
     "members": []
 }

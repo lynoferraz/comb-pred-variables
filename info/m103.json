@@ -1,14 +1,14 @@
 {
-    "alias": "m104",
-    "name": "Final — Match 104",
-    "description": "Final winner (Match 104): Winner of Match 101 vs Winner of Match 102. Winner of Match 101 — possible teams: Canada, Morocco, United States, Paraguay, Belgium, Spain, France, Portugal. Winner of Match 102 — possible teams: Mexico, Switzerland, Brazil, Paraguay, Turkey, Curaçao, Ecuador, Egypt, Cape Verde, Senegal, Iraq, Norway, Argentina, Algeria, Jordan, Colombia, England, Ghana, Panama.",
+    "alias": "m103",
+    "name": "Third-Place Play-off — Match 103",
+    "description": "Third-Place Play-off winner (Match 103): Loser of Semifinal 101 vs Loser of Semifinal 102. Loser of Semifinal 101 — possible teams: Canada, Morocco, United States, Paraguay, Belgium, Spain, France, Portugal. Loser of Semifinal 102 — possible teams: Mexico, Switzerland, Brazil, Paraguay, Turkey, Curaçao, Ecuador, Egypt, Cape Verde, Senegal, Iraq, Norway, Argentina, Algeria, Jordan, Colombia, England, Ghana, Panama.",
     "category": "knockout",
     "tags": [
         "world cup",
-        "final",
-        "match 104"
+        "third-place play-off",
+        "match 103"
     ],
-    "cluster": "Final",
+    "cluster": "Third Place",
     "states": [
         "Mexico",
         "South Africa",

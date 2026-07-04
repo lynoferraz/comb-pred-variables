@@ -1,0 +1,25 @@
+{
+    "alias": "k2",
+    "name": "Group K — Runner-up",
+    "description": "Resolved: Portugal finished runner-up of Group K.",
+    "category": "group",
+    "tags": [
+        "world cup",
+        "group k",
+        "runner-up"
+    ],
+    "cluster": "Group K",
+    "states": [
+        "Portugal",
+        "DR Congo",
+        "Uzbekistan",
+        "Colombia"
+    ],
+    "cliques": [
+        [
+            "m83"
+        ]
+    ],
+    "newCluster": false,
+    "members": []
+}

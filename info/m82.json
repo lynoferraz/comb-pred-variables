@@ -1,0 +1,45 @@
+{
+    "alias": "m82",
+    "name": "Round of 32 — Match 82",
+    "description": "Resolved: Belgium won Match 82 (Round of 32).",
+    "category": "knockout",
+    "tags": [
+        "world cup",
+        "round of 32",
+        "match 82"
+    ],
+    "cluster": "Round of 32",
+    "states": [
+        "Mexico",
+        "South Africa",
+        "South Korea",
+        "Czech Republic",
+        "Germany",
+        "Curaçao",
+        "Ivory Coast",
+        "Ecuador",
+        "Belgium",
+        "Egypt",
+        "Iran",
+        "New Zealand",
+        "Spain",
+        "Cape Verde",
+        "Saudi Arabia",
+        "Uruguay",
+        "France",
+        "Senegal",
+        "Iraq",
+        "Norway",
+        "Argentina",
+        "Algeria",
+        "Austria",
+        "Jordan"
+    ],
+    "cliques": [
+        [
+            "m94"
+        ]
+    ],
+    "newCluster": true,
+    "members": []
+}

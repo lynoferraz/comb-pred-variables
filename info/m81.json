@@ -1,0 +1,46 @@
+{
+    "alias": "m81",
+    "name": "Round of 32 — Match 81",
+    "description": "Resolved: United States won Match 81 (Round of 32).",
+    "category": "knockout",
+    "tags": [
+        "world cup",
+        "round of 32",
+        "match 81"
+    ],
+    "cluster": "Round of 32",
+    "states": [
+        "Canada",
+        "Bosnia and Herzegovina",
+        "Qatar",
+        "Switzerland",
+        "United States",
+        "Paraguay",
+        "Australia",
+        "Turkey",
+        "Germany",
+        "Curaçao",
+        "Ivory Coast",
+        "Ecuador",
+        "Netherlands",
+        "Japan",
+        "Sweden",
+        "Tunisia",
+        "France",
+        "Senegal",
+        "Iraq",
+        "Norway",
+        "Argentina",
+        "Algeria",
+        "Austria",
+        "Jordan"
+    ],
+    "cliques": [
+        [
+            "m94",
+            "m82"
+        ]
+    ],
+    "newCluster": true,
+    "members": []
+}

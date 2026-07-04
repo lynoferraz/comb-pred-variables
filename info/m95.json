@@ -1,0 +1,38 @@
+{
+    "alias": "m95",
+    "name": "Round of 16 — Match 95",
+    "description": "Round of 16 winner (Match 95): Winner of Match 86 vs Winner of Match 88. Winner of Match 86 — possible teams: Cape Verde, Argentina. Winner of Match 88: Egypt (confirmed).",
+    "category": "knockout",
+    "tags": [
+        "world cup",
+        "round of 16",
+        "match 95"
+    ],
+    "cluster": "Round of 16",
+    "states": [
+        "United States",
+        "Paraguay",
+        "Australia",
+        "Turkey",
+        "Belgium",
+        "Egypt",
+        "Iran",
+        "New Zealand",
+        "Spain",
+        "Cape Verde",
+        "Saudi Arabia",
+        "Uruguay",
+        "Argentina",
+        "Algeria",
+        "Austria",
+        "Jordan"
+    ],
+    "cliques": [
+        [
+            "m100",
+            "m96"
+        ]
+    ],
+    "newCluster": true,
+    "members": []
+}

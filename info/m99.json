@@ -1,31 +1,23 @@
 {
-    "alias": "m104",
-    "name": "Final — Match 104",
-    "description": "Final winner (Match 104): Winner of Match 101 vs Winner of Match 102. Winner of Match 101 — possible teams: Canada, Morocco, United States, Paraguay, Belgium, Spain, France, Portugal. Winner of Match 102 — possible teams: Mexico, Switzerland, Brazil, Paraguay, Turkey, Curaçao, Ecuador, Egypt, Cape Verde, Senegal, Iraq, Norway, Argentina, Algeria, Jordan, Colombia, England, Ghana, Panama.",
+    "alias": "m99",
+    "name": "Quarterfinal — Match 99",
+    "description": "Quarterfinal winner (Match 99): Winner of Match 91 vs Winner of Match 92. Winner of Match 91 — possible teams: Brazil, Norway. Winner of Match 92 — possible teams: Mexico, England.",
     "category": "knockout",
     "tags": [
         "world cup",
-        "final",
-        "match 104"
+        "quarterfinal",
+        "match 99"
     ],
-    "cluster": "Final",
+    "cluster": "Quarterfinals",
     "states": [
         "Mexico",
         "South Africa",
         "South Korea",
         "Czech Republic",
-        "Canada",
-        "Bosnia and Herzegovina",
-        "Qatar",
-        "Switzerland",
         "Brazil",
         "Morocco",
         "Haiti",
         "Scotland",
-        "United States",
-        "Paraguay",
-        "Australia",
-        "Turkey",
         "Germany",
         "Curaçao",
         "Ivory Coast",
@@ -34,10 +26,6 @@
         "Japan",
         "Sweden",
         "Tunisia",
-        "Belgium",
-        "Egypt",
-        "Iran",
-        "New Zealand",
         "Spain",
         "Cape Verde",
         "Saudi Arabia",
@@ -59,7 +47,12 @@
         "Ghana",
         "Panama"
     ],
-    "cliques": [],
+    "cliques": [
+        [
+            "m102",
+            "m100"
+        ]
+    ],
     "newCluster": true,
     "members": []
 }

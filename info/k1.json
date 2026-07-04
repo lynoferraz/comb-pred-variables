@@ -1,0 +1,25 @@
+{
+    "alias": "k1",
+    "name": "Group K — Winner",
+    "description": "Resolved: Colombia finished top of Group K.",
+    "category": "group",
+    "tags": [
+        "world cup",
+        "group k",
+        "winner"
+    ],
+    "cluster": "Group K",
+    "states": [
+        "Portugal",
+        "DR Congo",
+        "Uzbekistan",
+        "Colombia"
+    ],
+    "cliques": [
+        [
+            "m87"
+        ]
+    ],
+    "newCluster": false,
+    "members": []
+}

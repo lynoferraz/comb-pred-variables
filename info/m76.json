@@ -1,0 +1,30 @@
+{
+    "alias": "m76",
+    "name": "Round of 32 — Match 76",
+    "description": "Resolved: Brazil won Match 76 (Round of 32).",
+    "category": "knockout",
+    "tags": [
+        "world cup",
+        "round of 32",
+        "match 76"
+    ],
+    "cluster": "Round of 32",
+    "states": [
+        "Brazil",
+        "Morocco",
+        "Haiti",
+        "Scotland",
+        "Netherlands",
+        "Japan",
+        "Sweden",
+        "Tunisia"
+    ],
+    "cliques": [
+        [
+            "m91",
+            "m78"
+        ]
+    ],
+    "newCluster": true,
+    "members": []
+}

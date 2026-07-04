@@ -1,0 +1,25 @@
+{
+    "alias": "a1",
+    "name": "Group A — Winner",
+    "description": "Resolved: Mexico finished top of Group A.",
+    "category": "group",
+    "tags": [
+        "world cup",
+        "group a",
+        "winner"
+    ],
+    "cluster": "Group A",
+    "states": [
+        "Mexico",
+        "South Africa",
+        "South Korea",
+        "Czech Republic"
+    ],
+    "cliques": [
+        [
+            "m79"
+        ]
+    ],
+    "newCluster": false,
+    "members": []
+}

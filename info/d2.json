@@ -1,0 +1,25 @@
+{
+    "alias": "d2",
+    "name": "Group D — Runner-up",
+    "description": "Resolved: Australia finished runner-up of Group D.",
+    "category": "group",
+    "tags": [
+        "world cup",
+        "group d",
+        "runner-up"
+    ],
+    "cluster": "Group D",
+    "states": [
+        "United States",
+        "Paraguay",
+        "Australia",
+        "Turkey"
+    ],
+    "cliques": [
+        [
+            "m88"
+        ]
+    ],
+    "newCluster": false,
+    "members": []
+}

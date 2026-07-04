@@ -1,0 +1,46 @@
+{
+    "alias": "m85",
+    "name": "Round of 32 — Match 85",
+    "description": "Resolved: Switzerland won Match 85 (Round of 32).",
+    "category": "knockout",
+    "tags": [
+        "world cup",
+        "round of 32",
+        "match 85"
+    ],
+    "cluster": "Round of 32",
+    "states": [
+        "Canada",
+        "Bosnia and Herzegovina",
+        "Qatar",
+        "Switzerland",
+        "Germany",
+        "Curaçao",
+        "Ivory Coast",
+        "Ecuador",
+        "Netherlands",
+        "Japan",
+        "Sweden",
+        "Tunisia",
+        "Belgium",
+        "Egypt",
+        "Iran",
+        "New Zealand",
+        "France",
+        "Senegal",
+        "Iraq",
+        "Norway",
+        "Argentina",
+        "Algeria",
+        "Austria",
+        "Jordan"
+    ],
+    "cliques": [
+        [
+            "m96",
+            "m87"
+        ]
+    ],
+    "newCluster": true,
+    "members": []
+}

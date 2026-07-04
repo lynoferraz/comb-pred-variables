@@ -1,0 +1,25 @@
+{
+    "alias": "i1",
+    "name": "Group I — Winner",
+    "description": "Resolved: France finished top of Group I.",
+    "category": "group",
+    "tags": [
+        "world cup",
+        "group i",
+        "winner"
+    ],
+    "cluster": "Group I",
+    "states": [
+        "France",
+        "Senegal",
+        "Iraq",
+        "Norway"
+    ],
+    "cliques": [
+        [
+            "m77"
+        ]
+    ],
+    "newCluster": false,
+    "members": []
+}

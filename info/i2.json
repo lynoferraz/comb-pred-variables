@@ -1,0 +1,26 @@
+{
+    "alias": "i2",
+    "name": "Group I — Runner-up",
+    "description": "Resolved: Norway finished runner-up of Group I.",
+    "category": "group",
+    "tags": [
+        "world cup",
+        "group i",
+        "runner-up"
+    ],
+    "cluster": "Group I",
+    "states": [
+        "France",
+        "Senegal",
+        "Iraq",
+        "Norway"
+    ],
+    "cliques": [
+        [
+            "m78",
+            "e2"
+        ]
+    ],
+    "newCluster": false,
+    "members": []
+}

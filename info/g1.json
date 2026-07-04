@@ -1,0 +1,25 @@
+{
+    "alias": "g1",
+    "name": "Group G — Winner",
+    "description": "Resolved: Belgium finished top of Group G.",
+    "category": "group",
+    "tags": [
+        "world cup",
+        "group g",
+        "winner"
+    ],
+    "cluster": "Group G",
+    "states": [
+        "Belgium",
+        "Egypt",
+        "Iran",
+        "New Zealand"
+    ],
+    "cliques": [
+        [
+            "m82"
+        ]
+    ],
+    "newCluster": false,
+    "members": []
+}

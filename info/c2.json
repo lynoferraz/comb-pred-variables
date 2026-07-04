@@ -1,0 +1,25 @@
+{
+    "alias": "c2",
+    "name": "Group C — Runner-up",
+    "description": "Resolved: Morocco finished runner-up of Group C.",
+    "category": "group",
+    "tags": [
+        "world cup",
+        "group c",
+        "runner-up"
+    ],
+    "cluster": "Group C",
+    "states": [
+        "Brazil",
+        "Morocco",
+        "Haiti",
+        "Scotland"
+    ],
+    "cliques": [
+        [
+            "m75"
+        ]
+    ],
+    "newCluster": false,
+    "members": []
+}

@@ -1,0 +1,29 @@
+{
+    "alias": "m78",
+    "name": "Round of 32 — Match 78",
+    "description": "Resolved: Norway won Match 78 (Round of 32).",
+    "category": "knockout",
+    "tags": [
+        "world cup",
+        "round of 32",
+        "match 78"
+    ],
+    "cluster": "Round of 32",
+    "states": [
+        "Germany",
+        "Curaçao",
+        "Ivory Coast",
+        "Ecuador",
+        "France",
+        "Senegal",
+        "Iraq",
+        "Norway"
+    ],
+    "cliques": [
+        [
+            "m91"
+        ]
+    ],
+    "newCluster": true,
+    "members": []
+}

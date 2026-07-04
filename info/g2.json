@@ -1,0 +1,26 @@
+{
+    "alias": "g2",
+    "name": "Group G — Runner-up",
+    "description": "Resolved: Egypt finished runner-up of Group G.",
+    "category": "group",
+    "tags": [
+        "world cup",
+        "group g",
+        "runner-up"
+    ],
+    "cluster": "Group G",
+    "states": [
+        "Belgium",
+        "Egypt",
+        "Iran",
+        "New Zealand"
+    ],
+    "cliques": [
+        [
+            "m88",
+            "d2"
+        ]
+    ],
+    "newCluster": false,
+    "members": []
+}

@@ -1,0 +1,25 @@
+{
+    "alias": "a2",
+    "name": "Group A — Runner-up",
+    "description": "Resolved: South Africa finished runner-up of Group A.",
+    "category": "group",
+    "tags": [
+        "world cup",
+        "group a",
+        "runner-up"
+    ],
+    "cluster": "Group A",
+    "states": [
+        "Mexico",
+        "South Africa",
+        "South Korea",
+        "Czech Republic"
+    ],
+    "cliques": [
+        [
+            "m73"
+        ]
+    ],
+    "newCluster": false,
+    "members": []
+}

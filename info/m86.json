@@ -1,0 +1,30 @@
+{
+    "alias": "m86",
+    "name": "Round of 32 — Match 86",
+    "description": "Round of 32 winner (Match 86): Winner Group J vs Runner-up Group H. Winner Group J: Argentina (confirmed). Runner-up Group H: Cape Verde (confirmed).",
+    "category": "knockout",
+    "tags": [
+        "world cup",
+        "round of 32",
+        "match 86"
+    ],
+    "cluster": "Round of 32",
+    "states": [
+        "Spain",
+        "Cape Verde",
+        "Saudi Arabia",
+        "Uruguay",
+        "Argentina",
+        "Algeria",
+        "Austria",
+        "Jordan"
+    ],
+    "cliques": [
+        [
+            "m95",
+            "m88"
+        ]
+    ],
+    "newCluster": true,
+    "members": []
+}

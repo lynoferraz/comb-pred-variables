@@ -1,0 +1,45 @@
+{
+    "alias": "m77",
+    "name": "Round of 32 — Match 77",
+    "description": "Resolved: France won Match 77 (Round of 32).",
+    "category": "knockout",
+    "tags": [
+        "world cup",
+        "round of 32",
+        "match 77"
+    ],
+    "cluster": "Round of 32",
+    "states": [
+        "Brazil",
+        "Morocco",
+        "Haiti",
+        "Scotland",
+        "United States",
+        "Paraguay",
+        "Australia",
+        "Turkey",
+        "Netherlands",
+        "Japan",
+        "Sweden",
+        "Tunisia",
+        "Belgium",
+        "Egypt",
+        "Iran",
+        "New Zealand",
+        "Spain",
+        "Cape Verde",
+        "Saudi Arabia",
+        "Uruguay",
+        "France",
+        "Senegal",
+        "Iraq",
+        "Norway"
+    ],
+    "cliques": [
+        [
+            "m89"
+        ]
+    ],
+    "newCluster": true,
+    "members": []
+}

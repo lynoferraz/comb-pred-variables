@@ -1,0 +1,25 @@
+{
+    "alias": "h2",
+    "name": "Group H — Runner-up",
+    "description": "Resolved: Cape Verde finished runner-up of Group H.",
+    "category": "group",
+    "tags": [
+        "world cup",
+        "group h",
+        "runner-up"
+    ],
+    "cluster": "Group H",
+    "states": [
+        "Spain",
+        "Cape Verde",
+        "Saudi Arabia",
+        "Uruguay"
+    ],
+    "cliques": [
+        [
+            "m86"
+        ]
+    ],
+    "newCluster": false,
+    "members": []
+}

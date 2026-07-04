@@ -1,0 +1,26 @@
+{
+    "alias": "l2",
+    "name": "Group L — Runner-up",
+    "description": "Resolved: Croatia finished runner-up of Group L.",
+    "category": "group",
+    "tags": [
+        "world cup",
+        "group l",
+        "runner-up"
+    ],
+    "cluster": "Group L",
+    "states": [
+        "England",
+        "Croatia",
+        "Ghana",
+        "Panama"
+    ],
+    "cliques": [
+        [
+            "m83",
+            "k2"
+        ]
+    ],
+    "newCluster": false,
+    "members": []
+}

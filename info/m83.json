@@ -1,0 +1,30 @@
+{
+    "alias": "m83",
+    "name": "Round of 32 — Match 83",
+    "description": "Resolved: Portugal won Match 83 (Round of 32).",
+    "category": "knockout",
+    "tags": [
+        "world cup",
+        "round of 32",
+        "match 83"
+    ],
+    "cluster": "Round of 32",
+    "states": [
+        "Portugal",
+        "DR Congo",
+        "Uzbekistan",
+        "Colombia",
+        "England",
+        "Croatia",
+        "Ghana",
+        "Panama"
+    ],
+    "cliques": [
+        [
+            "m93",
+            "m84"
+        ]
+    ],
+    "newCluster": true,
+    "members": []
+}

@@ -1,0 +1,25 @@
+{
+    "alias": "h1",
+    "name": "Group H — Winner",
+    "description": "Resolved: Spain finished top of Group H.",
+    "category": "group",
+    "tags": [
+        "world cup",
+        "group h",
+        "winner"
+    ],
+    "cluster": "Group H",
+    "states": [
+        "Spain",
+        "Cape Verde",
+        "Saudi Arabia",
+        "Uruguay"
+    ],
+    "cliques": [
+        [
+            "m84"
+        ]
+    ],
+    "newCluster": false,
+    "members": []
+}

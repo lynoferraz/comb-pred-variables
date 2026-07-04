@@ -1,0 +1,25 @@
+{
+    "alias": "e2",
+    "name": "Group E — Runner-up",
+    "description": "Resolved: Ivory Coast finished runner-up of Group E.",
+    "category": "group",
+    "tags": [
+        "world cup",
+        "group e",
+        "runner-up"
+    ],
+    "cluster": "Group E",
+    "states": [
+        "Germany",
+        "Curaçao",
+        "Ivory Coast",
+        "Ecuador"
+    ],
+    "cliques": [
+        [
+            "m78"
+        ]
+    ],
+    "newCluster": false,
+    "members": []
+}

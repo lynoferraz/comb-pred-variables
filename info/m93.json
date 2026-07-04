@@ -1,0 +1,38 @@
+{
+    "alias": "m93",
+    "name": "Round of 16 — Match 93",
+    "description": "Round of 16 winner (Match 93): Winner of Match 83 vs Winner of Match 84. Winner of Match 83: Portugal (confirmed). Winner of Match 84: Spain (confirmed).",
+    "category": "knockout",
+    "tags": [
+        "world cup",
+        "round of 16",
+        "match 93"
+    ],
+    "cluster": "Round of 16",
+    "states": [
+        "Spain",
+        "Cape Verde",
+        "Saudi Arabia",
+        "Uruguay",
+        "Argentina",
+        "Algeria",
+        "Austria",
+        "Jordan",
+        "Portugal",
+        "DR Congo",
+        "Uzbekistan",
+        "Colombia",
+        "England",
+        "Croatia",
+        "Ghana",
+        "Panama"
+    ],
+    "cliques": [
+        [
+            "m98",
+            "m94"
+        ]
+    ],
+    "newCluster": true,
+    "members": []
+}

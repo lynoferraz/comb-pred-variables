@@ -1,14 +1,14 @@
 {
-    "alias": "m104",
-    "name": "Final — Match 104",
-    "description": "Final winner (Match 104): Winner of Match 101 vs Winner of Match 102. Winner of Match 101 — possible teams: Canada, Morocco, United States, Paraguay, Belgium, Spain, France, Portugal. Winner of Match 102 — possible teams: Mexico, Switzerland, Brazil, Paraguay, Turkey, Curaçao, Ecuador, Egypt, Cape Verde, Senegal, Iraq, Norway, Argentina, Algeria, Jordan, Colombia, England, Ghana, Panama.",
+    "alias": "m101",
+    "name": "Semifinal — Match 101",
+    "description": "Semifinal winner (Match 101): Winner of Match 97 vs Winner of Match 98. Winner of Match 97 — possible teams: Canada, Morocco, Paraguay, France. Winner of Match 98 — possible teams: United States, Belgium, Spain, Portugal.",
     "category": "knockout",
     "tags": [
         "world cup",
-        "final",
-        "match 104"
+        "semifinal",
+        "match 101"
     ],
-    "cluster": "Final",
+    "cluster": "Semifinals",
     "states": [
         "Mexico",
         "South Africa",
@@ -59,7 +59,12 @@
         "Ghana",
         "Panama"
     ],
-    "cliques": [],
+    "cliques": [
+        [
+            "m104",
+            "m102"
+        ]
+    ],
     "newCluster": true,
     "members": []
 }

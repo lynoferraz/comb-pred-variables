@@ -1,0 +1,25 @@
+{
+    "alias": "l1",
+    "name": "Group L — Winner",
+    "description": "Resolved: England finished top of Group L.",
+    "category": "group",
+    "tags": [
+        "world cup",
+        "group l",
+        "winner"
+    ],
+    "cluster": "Group L",
+    "states": [
+        "England",
+        "Croatia",
+        "Ghana",
+        "Panama"
+    ],
+    "cliques": [
+        [
+            "m80"
+        ]
+    ],
+    "newCluster": false,
+    "members": []
+}

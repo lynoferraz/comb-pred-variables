@@ -1,0 +1,26 @@
+{
+    "alias": "f2",
+    "name": "Group F — Runner-up",
+    "description": "Resolved: Japan finished runner-up of Group F.",
+    "category": "group",
+    "tags": [
+        "world cup",
+        "group f",
+        "runner-up"
+    ],
+    "cluster": "Group F",
+    "states": [
+        "Netherlands",
+        "Japan",
+        "Sweden",
+        "Tunisia"
+    ],
+    "cliques": [
+        [
+            "m76",
+            "c1"
+        ]
+    ],
+    "newCluster": false,
+    "members": []
+}

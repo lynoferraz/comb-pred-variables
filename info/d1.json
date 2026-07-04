@@ -1,0 +1,25 @@
+{
+    "alias": "d1",
+    "name": "Group D — Winner",
+    "description": "Resolved: United States finished top of Group D.",
+    "category": "group",
+    "tags": [
+        "world cup",
+        "group d",
+        "winner"
+    ],
+    "cluster": "Group D",
+    "states": [
+        "United States",
+        "Paraguay",
+        "Australia",
+        "Turkey"
+    ],
+    "cliques": [
+        [
+            "m81"
+        ]
+    ],
+    "newCluster": false,
+    "members": []
+}

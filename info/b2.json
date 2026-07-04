@@ -1,0 +1,26 @@
+{
+    "alias": "b2",
+    "name": "Group B — Runner-up",
+    "description": "Resolved: Canada finished runner-up of Group B.",
+    "category": "group",
+    "tags": [
+        "world cup",
+        "group b",
+        "runner-up"
+    ],
+    "cluster": "Group B",
+    "states": [
+        "Canada",
+        "Bosnia and Herzegovina",
+        "Qatar",
+        "Switzerland"
+    ],
+    "cliques": [
+        [
+            "m73",
+            "a2"
+        ]
+    ],
+    "newCluster": false,
+    "members": []
+}

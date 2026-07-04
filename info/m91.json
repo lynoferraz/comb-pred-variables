@@ -1,0 +1,38 @@
+{
+    "alias": "m91",
+    "name": "Round of 16 — Match 91",
+    "description": "Round of 16 winner (Match 91): Winner of Match 76 vs Winner of Match 78. Winner of Match 76: Brazil (confirmed). Winner of Match 78: Norway (confirmed).",
+    "category": "knockout",
+    "tags": [
+        "world cup",
+        "round of 16",
+        "match 91"
+    ],
+    "cluster": "Round of 16",
+    "states": [
+        "Brazil",
+        "Morocco",
+        "Haiti",
+        "Scotland",
+        "Germany",
+        "Curaçao",
+        "Ivory Coast",
+        "Ecuador",
+        "Netherlands",
+        "Japan",
+        "Sweden",
+        "Tunisia",
+        "France",
+        "Senegal",
+        "Iraq",
+        "Norway"
+    ],
+    "cliques": [
+        [
+            "m99",
+            "m92"
+        ]
+    ],
+    "newCluster": true,
+    "members": []
+}

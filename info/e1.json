@@ -1,0 +1,25 @@
+{
+    "alias": "e1",
+    "name": "Group E — Winner",
+    "description": "Resolved: Germany finished top of Group E.",
+    "category": "group",
+    "tags": [
+        "world cup",
+        "group e",
+        "winner"
+    ],
+    "cluster": "Group E",
+    "states": [
+        "Germany",
+        "Curaçao",
+        "Ivory Coast",
+        "Ecuador"
+    ],
+    "cliques": [
+        [
+            "m74"
+        ]
+    ],
+    "newCluster": false,
+    "members": []
+}

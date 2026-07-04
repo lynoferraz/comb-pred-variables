@@ -1,0 +1,25 @@
+{
+    "alias": "c1",
+    "name": "Group C — Winner",
+    "description": "Resolved: Brazil finished top of Group C.",
+    "category": "group",
+    "tags": [
+        "world cup",
+        "group c",
+        "winner"
+    ],
+    "cluster": "Group C",
+    "states": [
+        "Brazil",
+        "Morocco",
+        "Haiti",
+        "Scotland"
+    ],
+    "cliques": [
+        [
+            "m76"
+        ]
+    ],
+    "newCluster": false,
+    "members": []
+}

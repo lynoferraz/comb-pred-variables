@@ -1,0 +1,45 @@
+{
+    "alias": "m87",
+    "name": "Round of 32 — Match 87",
+    "description": "Round of 32 winner (Match 87): Winner Group K vs Third place (Group D/E/I/J/L). Winner Group K: Colombia (confirmed). Third place (Group D/E/I/J/L) — possible teams: Paraguay, Turkey, Curaçao, Ecuador, Senegal, Iraq, Algeria, Jordan, Ghana, Panama.",
+    "category": "knockout",
+    "tags": [
+        "world cup",
+        "round of 32",
+        "match 87"
+    ],
+    "cluster": "Round of 32",
+    "states": [
+        "United States",
+        "Paraguay",
+        "Australia",
+        "Turkey",
+        "Germany",
+        "Curaçao",
+        "Ivory Coast",
+        "Ecuador",
+        "France",
+        "Senegal",
+        "Iraq",
+        "Norway",
+        "Argentina",
+        "Algeria",
+        "Austria",
+        "Jordan",
+        "Portugal",
+        "DR Congo",
+        "Uzbekistan",
+        "Colombia",
+        "England",
+        "Croatia",
+        "Ghana",
+        "Panama"
+    ],
+    "cliques": [
+        [
+            "m96"
+        ]
+    ],
+    "newCluster": true,
+    "members": []
+}

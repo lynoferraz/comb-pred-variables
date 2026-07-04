@@ -1,0 +1,26 @@
+{
+    "alias": "j1",
+    "name": "Group J — Winner",
+    "description": "Resolved: Argentina finished top of Group J.",
+    "category": "group",
+    "tags": [
+        "world cup",
+        "group j",
+        "winner"
+    ],
+    "cluster": "Group J",
+    "states": [
+        "Argentina",
+        "Algeria",
+        "Austria",
+        "Jordan"
+    ],
+    "cliques": [
+        [
+            "m86",
+            "h2"
+        ]
+    ],
+    "newCluster": false,
+    "members": []
+}

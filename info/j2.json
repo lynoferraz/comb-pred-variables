@@ -1,0 +1,26 @@
+{
+    "alias": "j2",
+    "name": "Group J — Runner-up",
+    "description": "Resolved: Austria finished runner-up of Group J.",
+    "category": "group",
+    "tags": [
+        "world cup",
+        "group j",
+        "runner-up"
+    ],
+    "cluster": "Group J",
+    "states": [
+        "Argentina",
+        "Algeria",
+        "Austria",
+        "Jordan"
+    ],
+    "cliques": [
+        [
+            "m84",
+            "h1"
+        ]
+    ],
+    "newCluster": false,
+    "members": []
+}

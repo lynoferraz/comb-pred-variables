@@ -1,0 +1,25 @@
+{
+    "alias": "b1",
+    "name": "Group B — Winner",
+    "description": "Resolved: Switzerland finished top of Group B.",
+    "category": "group",
+    "tags": [
+        "world cup",
+        "group b",
+        "winner"
+    ],
+    "cluster": "Group B",
+    "states": [
+        "Canada",
+        "Bosnia and Herzegovina",
+        "Qatar",
+        "Switzerland"
+    ],
+    "cliques": [
+        [
+            "m85"
+        ]
+    ],
+    "newCluster": false,
+    "members": []
+}

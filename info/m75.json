@@ -1,0 +1,29 @@
+{
+    "alias": "m75",
+    "name": "Round of 32 — Match 75",
+    "description": "Resolved: Morocco won Match 75 (Round of 32).",
+    "category": "knockout",
+    "tags": [
+        "world cup",
+        "round of 32",
+        "match 75"
+    ],
+    "cluster": "Round of 32",
+    "states": [
+        "Brazil",
+        "Morocco",
+        "Haiti",
+        "Scotland",
+        "Netherlands",
+        "Japan",
+        "Sweden",
+        "Tunisia"
+    ],
+    "cliques": [
+        [
+            "m90"
+        ]
+    ],
+    "newCluster": true,
+    "members": []
+}

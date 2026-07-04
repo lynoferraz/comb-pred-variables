@@ -1,0 +1,37 @@
+{
+    "alias": "m90",
+    "name": "Round of 16 — Match 90",
+    "description": "Round of 16 winner (Match 90): Winner of Match 73 vs Winner of Match 75. Winner of Match 73: Canada (confirmed). Winner of Match 75: Morocco (confirmed).",
+    "category": "knockout",
+    "tags": [
+        "world cup",
+        "round of 16",
+        "match 90"
+    ],
+    "cluster": "Round of 16",
+    "states": [
+        "Mexico",
+        "South Africa",
+        "South Korea",
+        "Czech Republic",
+        "Canada",
+        "Bosnia and Herzegovina",
+        "Qatar",
+        "Switzerland",
+        "Brazil",
+        "Morocco",
+        "Haiti",
+        "Scotland",
+        "Netherlands",
+        "Japan",
+        "Sweden",
+        "Tunisia"
+    ],
+    "cliques": [
+        [
+            "m97"
+        ]
+    ],
+    "newCluster": true,
+    "members": []
+}

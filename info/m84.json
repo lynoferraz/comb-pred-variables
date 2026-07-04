@@ -1,0 +1,29 @@
+{
+    "alias": "m84",
+    "name": "Round of 32 — Match 84",
+    "description": "Resolved: Spain won Match 84 (Round of 32).",
+    "category": "knockout",
+    "tags": [
+        "world cup",
+        "round of 32",
+        "match 84"
+    ],
+    "cluster": "Round of 32",
+    "states": [
+        "Spain",
+        "Cape Verde",
+        "Saudi Arabia",
+        "Uruguay",
+        "Argentina",
+        "Algeria",
+        "Austria",
+        "Jordan"
+    ],
+    "cliques": [
+        [
+            "m93"
+        ]
+    ],
+    "newCluster": true,
+    "members": []
+}
